@@ -1,0 +1,4 @@
+export ICINGA2_HOST=icinga2_ip_address
+export ICINGA2_API_PORT=5665
+export ICINGA2_API_USER=icinga2_api_user
+export ICINGA2_API_PASSWORD=password
